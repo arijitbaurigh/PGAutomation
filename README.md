@@ -100,13 +100,14 @@ Install the **ESP32** board package and add the **Blynk** library from the Libra
 Open the Serial Monitor at **115200** baud to see connection, IR events, DHT reads, and timer logs.
 
 ---
-# Clone the repository
-```sh
-git clone https://github.com/yourusername/PGAutomation.git
+## 🛠 Installation
 
-# Move into the project folder
+1. Clone the repository
+```sh
+git clone https://github.com/arijitbaurigh/PGAutomation.git
+```
+
+2. Move into the project folder
 ```sh
 cd PGAutomation
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+```
