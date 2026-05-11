@@ -31,24 +31,19 @@ Home automation firmware for an ESP32 that controls a **fan** and **light** via 
 ## Project gallery
 
 ### Full project
-
-![Full project](https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/FullProject.jpeg)
+<img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/FullProject.jpeg" alt="Full project" width="300"/>
 
 ### ESP32 and relay module
-
-![ESP32 and relay](https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/ESP32andReley.jpeg)
+<img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/ESP32andReley.jpeg" alt="ESP32 and relay" width="300"/>
 
 ### DHT11
-
-![DHT11](https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/DHT11.jpeg)
+<img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/DHT11.jpeg" alt="DHT11" width="300"/>
 
 ### IR sensors
-
-![IR sensors](https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/IRsensor.jpeg)
+<img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/IRsensor.jpeg" alt="IR sensors" width="300"/>
 
 ### Matrix / display (if used in your build)
-
-![Matrix display](https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/MatrixDisplay.jpeg)
+<img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/MatrixDisplay.jpeg" alt="Matrix display" width="300"/>
 
 ---
 
