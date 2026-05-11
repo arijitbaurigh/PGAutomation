@@ -101,10 +101,12 @@ Open the Serial Monitor at **115200** baud to see connection, IR events, DHT rea
 
 ---
 # Clone the repository
-``` git clone https://github.com/yourusername/PGAutomation.git ```
+```sh
+git clone https://github.com/yourusername/PGAutomation.git
 
 # Move into the project folder
-```` cd PGAutomation ```
+```sh
+cd PGAutomation
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
