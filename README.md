@@ -30,8 +30,6 @@ Home automation firmware for an ESP32 that controls a **fan** and **light** via 
 
 ## Project gallery
 
-## 🔧 Project Components (Carousel Style)
-
 <div style="display:flex; overflow-x:auto; gap:10px;">
 
   <img src="https://raw.githubusercontent.com/arijitbaurigh/PGAutomation/refs/heads/main/src/constants/FullProject.jpeg" alt="Full project" width="250"/>
@@ -102,4 +100,11 @@ Install the **ESP32** board package and add the **Blynk** library from the Libra
 Open the Serial Monitor at **115200** baud to see connection, IR events, DHT reads, and timer logs.
 
 ---
+# Clone the repository
+``` git clone https://github.com/yourusername/PGAutomation.git ```
 
+# Move into the project folder
+```` cd PGAutomation ```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
